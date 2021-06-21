@@ -1,4 +1,6 @@
 /**
+ *  THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ *
  * NavalShip extends Ship, and either directly or indirectly has fields that represent 
  * the size of its complement, the name of the ship, and the year the ship was built. 
  * The class also has accessors and mutators, as well as a toString method. 
