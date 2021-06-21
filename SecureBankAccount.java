@@ -1,5 +1,5 @@
 /**
- * THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ * THIS CORRESPONDS WITH THE ASSIGNMENT3 PDF
  *
  * This class mimicks a bank account, allowing users to deposit and withdraw funds.
  * If the withdrawal amount equals or passes $500, or if the balance is checked twice,
