@@ -1,4 +1,6 @@
 /**
+ *   THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ * 
  * This Ship class contains fields that represent the name of the ship and the year 
  * the ship was built. The class also has accessors and mutators, as well as a
  * toString method. Lastly, the class also implements the Saveable interface.
