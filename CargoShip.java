@@ -1,4 +1,6 @@
 /**
+ *  THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ *
  * CargoShip extends Ship, and either directly or indirectly has fields that represent 
  * cargo tonnage, the name of the ship and the year the ship was built. 
  * The class also has accessors and mutators, as well as a toString method. 
