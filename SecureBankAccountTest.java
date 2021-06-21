@@ -1,4 +1,6 @@
 /**
+ * THIS CORRESPONDS WITH THE ASSIGNMENT3 PDF
+ *
  * This tests various states of a SecureBankAccount object 
  * 
  * @author Lauren Buchholz 
