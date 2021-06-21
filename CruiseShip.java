@@ -1,4 +1,6 @@
 /**
+ *  THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ *
  * CruiseShip extends Ship, and either directly or indirectly has fields that represent 
  * maximum number of passengers, the name of the ship, and the year the ship was built. 
  * The class also has accessors and mutators, as well as a toString method. 
