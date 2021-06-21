@@ -1,4 +1,6 @@
 /**
+ * THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ *
  * This class mimicks a bank account, allowing users to deposit and withdraw funds.
  * If the withdrawal amount equals or passes $500, or if the balance is checked twice,
  * the account is locked. Finally, the user also has the option to reset all fields
