@@ -1,4 +1,6 @@
 /**
+ *  THIS CORRESPONDS WITH THE LESSON3LAB PDF
+ *
  * This program creates an array of Ship objects, then displays the contents of those objects
  *
  *@author Lauren BUchholz
